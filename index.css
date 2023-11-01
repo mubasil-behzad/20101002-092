@@ -1,0 +1,227 @@
+p.name {
+    margin-left: 8%;
+    color: rgba(30, 31, 31);
+    ;
+}
+
+p.intro {
+    color: rgba(30, 31, 31);
+    ;
+}
+
+a.intro {
+    color: rgba(25, 26, 26, 0.582);
+}
+
+span.space {
+    margin-right: 10%;
+}
+
+ol.order {
+    color: rgb(30, 31, 31);
+}
+
+hr.separator {
+    width: 40%;
+    margin-top: 5%;
+    opacity: 60%;
+    background-color: rgba(51, 54, 54, 0.582);
+    height: 0.8px;
+}
+
+img {
+    float: right;
+    margin-top: -11%;
+    margin-right: 5%;
+    max-width: 12%;
+    border: 4px solid;
+    border-color: #449399;
+    border-radius: 60%;
+}
+
+div.cvHeaderMian {
+    height: 175px;
+    background-color: #313c4e;
+}
+
+div.cvHeaderSub {
+    padding-top: 1%;
+    width: 55%;
+    margin-left: 8%;
+}
+
+p.cvName {
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: 32px;
+}
+
+p.cvSubtitle {
+    margin-top: -5%;
+    color: #419197;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+p.cvCaption {
+    margin-top: -1.5%;
+    font-family: sans-serif;
+    font-size: 13px;
+    color: #ffffff;
+}
+
+div.cvHeaderMian2 {
+    height: 140px;
+    background-color: #222a33;
+}
+
+div.mainBody {
+    margin-top: 3%;
+    height: 1309px;
+    width: 75%;
+    margin-left: 12.5%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    
+}
+
+a.mail {
+    font-family: sans-serif;
+    color: #ffffff;
+    margin-left: 10%;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+p.phone {
+    color: #ffffff;
+    float: right;
+    margin-top: 0.3%;
+    margin-right: 15%;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+p.location {
+    font-family: sans-serif;
+    color: #ffffff;
+    margin-left: 9.7%;
+    font-size: 14px;
+}
+
+p.birthDate {
+    color: #ffffff;
+    float: right;
+    margin-top: -3.2%;
+    margin-right: 16%;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+a.linkedIn {
+    font-family: sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+div.linkedIn {
+    font-family: sans-serif;
+    color: #ffffff;
+    width: 40%;
+    padding-right: 13%;
+    margin-left: 10%;
+}
+
+a.gitHub {
+    font-family: sans-serif;
+    color: #ffffff;
+    float: right;
+    margin-top: -2.3%;
+    margin-right: 5%;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+div.cvHeaderMian3 {
+    background-color: #ffffff;
+}
+
+div.education {
+    padding-top: 1.5%;
+}
+
+h2.educationalTitle {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 35px;
+}
+
+table,
+th,
+td {
+    margin: auto;
+    align-items: center;
+    border: 1px solid black;
+    border-collapse: separate;
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+div.skills {
+    padding-top: 0.5%;
+}
+
+ul.skills1 {
+    list-style-type: disc;
+    font-family: sans-serif;
+    font-size: 17px;
+    margin-left: 25%;
+}
+
+ul.skills2 {
+    list-style-type: disc;
+    font-family: sans-serif;
+    font-size: 17px;
+    float: right;
+    margin-top: -7.2%;
+    margin-right: 25%;
+}
+
+div.projects {
+    padding-top: 1%;
+    margin-top: -1.6%;
+}
+
+ol.projects {
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-left: 5%;
+}
+
+div.ambition {
+    padding-top: 1%;
+    margin-top: -1.5%;
+    height: 220px;
+}
+
+p.ambition {
+    font-family: sans-serif; 
+    font-weight: bold; 
+    font-size: 17px;
+    text-align: center;
+}
+
+ul.ambition2 {
+    font-family: sans-serif; 
+    margin-left: 4%;
+    font-size: 15px;
+}
+
+hr.separator2 {
+    width: 40%;
+    opacity: 60%;
+    margin-top: 2.5%;
+    background-color: rgba(51, 54, 54, 0.582);
+    height: 0.8px;
+}
